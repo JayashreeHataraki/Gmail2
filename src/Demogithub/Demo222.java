@@ -8,7 +8,7 @@ public class Demo222 {
 		System.out.println("asdssf");
 		
 		System.out.println("SDSDSDSDSDSDS");
-
+		Sysout.out.println("Hello musinc");
 	}
 
 }
