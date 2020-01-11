@@ -9,6 +9,8 @@ public class Demo222 {
 		
 		System.out.println("SDSDSDSDSDSDS");
 		Sysout.out.println("Hello musinc");
+		
+		Sysout.out.println(" Swati");
 	}
 
 }
